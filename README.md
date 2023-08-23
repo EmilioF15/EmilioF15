@@ -10,3 +10,4 @@ Español:
 
 🚀 Actualmente, soy un desarrollador full stack de JavaScript, enfocado en el stack MERN. Mi camino involucra un aprendizaje constante, y estoy emocionado por ampliar mis habilidades para incluir MySQL, C# y .NET. Aporto experiencia en metodologías Ágiles como Kanban y SCRUM, así como herramientas de gestión como el Balanced Scorecard. También tengo habilidades en el uso de herramientas como Trello y Jira para una gestión efectiva de proyectos. ¡Conectemos y colaboremos en proyectos emocionantes. 
 
+
