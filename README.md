@@ -9,4 +9,4 @@ Español:
 👋 ¡Hola! Soy Emilio, un farmacéutico de 32 años radicado en Argentina. He ejercido la farmacia desde 2015. En 2017, descubrí mi pasión por el mundo de la informática, y en 2020, me inscribí en el programa universitario de Analista Programador en la UNLP. En 2019, me uní al programa de MBA en la Facultad de Ciencias Económicas de la UNLP (actualmente trabajando en mi tesis de maestría).
 
 🚀 Actualmente, soy un desarrollador full stack de JavaScript, enfocado en el stack MERN. Mi camino involucra un aprendizaje constante, y estoy emocionado por ampliar mis habilidades para incluir MySQL, C# y .NET. Aporto experiencia en metodologías Ágiles como Kanban y SCRUM, así como herramientas de gestión como el Balanced Scorecard. También tengo habilidades en el uso de herramientas como Trello y Jira para una gestión efectiva de proyectos. ¡Conectemos y colaboremos en proyectos emocionantes. 
-
+:briefcase:  
